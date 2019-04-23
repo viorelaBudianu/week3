@@ -10,6 +10,7 @@ namespace Solutie
     {
         static void Main(string[] args)
         {
+            int n = 0;
         }
     }
 }
